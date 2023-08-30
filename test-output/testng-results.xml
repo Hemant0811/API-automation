@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-28T13:38:34 IST" name="Default suite" finished-at="2023-08-28T13:38:41 IST" duration-ms="7185">
+    <groups>
+    </groups>
+    <test started-at="2023-08-28T13:38:34 IST" name="Default test" finished-at="2023-08-28T13:38:41 IST" duration-ms="7185">
+      <class name="apiTestCases.createPlace">
+        <test-method signature="createNewPlaceOnGoogle()[pri:0, instance:apiTestCases.createPlace@4fb0f2b9]" started-at="2023-08-28T13:38:34 IST" name="createNewPlaceOnGoogle" finished-at="2023-08-28T13:38:39 IST" duration-ms="5407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewPlaceOnGoogle -->
+        <test-method signature="updatedata()[pri:1, instance:apiTestCases.createPlace@4fb0f2b9]" started-at="2023-08-28T13:38:39 IST" name="updatedata" finished-at="2023-08-28T13:38:41 IST" duration-ms="1692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatedata -->
+      </class> <!-- apiTestCases.createPlace -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
